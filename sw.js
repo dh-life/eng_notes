@@ -1,6 +1,6 @@
 // 나의 영어 노트 – 오프라인에서도 열리도록 화면 파일을 기기에 보관합니다.
 // 화면 파일을 고친 뒤에는 VERSION 숫자를 하나 올려 주세요.
-const VERSION = "enote-v5";
+const VERSION = "enote-v7";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png", "icons/icon-32.png", "icons/icon-maskable-512.png"];
 const CDN = "https://cdn.jsdelivr.net/";
 
